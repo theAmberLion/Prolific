@@ -1,4 +1,4 @@
-# Prolific
+# Prolific PL2303, Windows 11 compatible drivers
 Windows 11 compatible drivers for older Prolific PL2303 USB to RS232 cables (including fake chips).
 
 For older version of PL2303 use v 3.3.2.105: Install the exe, then use **Update driver** button, choose year 2008 driver.
