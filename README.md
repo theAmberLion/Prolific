@@ -3,7 +3,7 @@ Windows 11 compatible drivers for older Prolific PL2303 USB to RS232 cables (inc
 
 ---
 
-For newer versions of cables, use v 3.8.38.2 driver: Extract the contents of cab file into a folder. Use **Update driver** button, Have disk, then choose the folder.
+For newer versions of cables, use v 3.8.38.2 driver: Extract the contents of cab file into a folder. Use **Update driver** button, **Have disk..**, then choose the folder.
 
 ---
 
