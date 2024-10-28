@@ -7,7 +7,8 @@ For older version of PL2303 use v 3.3.2.105: Install the exe, then use **Update 
 ![pl2303-version-3 3 2 105](https://github.com/user-attachments/assets/066867b2-8fc7-48a1-9cda-152aaf9426fb)
 
 
-
+---
 
 For newer versions of cables, use v 3.8.38.2 driver: Extract the contents of cab file into a folder. Use **Update driver** button, Have disk, then choose the folder.
 
+---
